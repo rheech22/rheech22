@@ -1,3 +1,1 @@
 👋 Hi there!
-
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=rheech22&show_icons=true&&title_color=2ed573&icon_color=004386&layout=compact&hide_border=true&theme=discord_old_blurple) [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rheech22&show_icons=true&hide_border=true&title_color=2ed573&icon_color=004386&layout=compact&theme=discord_old_blurple)](https://github.com/rheech22)
